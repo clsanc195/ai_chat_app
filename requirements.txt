@@ -1,7 +1,7 @@
-langgraph
-langchain
-anthropic
-pydantic
-fastapi
-uvicorn[standard]
-langchain-anthropic
+langgraph==1.1.10
+langchain==1.2.18
+anthropic==0.100.0
+pydantic==2.13.4
+fastapi==0.136.1
+uvicorn[standard]==0.46.0
+langchain-anthropic==1.4.3
