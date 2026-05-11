@@ -1,0 +1,7 @@
+langgraph
+langchain
+anthropic
+pydantic
+fastapi
+uvicorn[standard]
+langchain-anthropic
